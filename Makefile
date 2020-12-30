@@ -1,7 +1,6 @@
 ifneq ($(KERNELVERSION),)
 obj-m	:= ds3231_drv.o
 
-
 else
 KDIR	:= /lib/modules/$(shell uname -r)/build
 PWD	:= $(shell pwd)
@@ -31,5 +30,5 @@ test: reload
 mat: reload
 	@echo "multipe access accomplished !"
 	./thread.py
-
+	
 endif
