@@ -4,7 +4,7 @@
 * Author-2 : Taha Al Dailami						      *
 *******************************************************************************
 * Beschreibung: Treibersoftware für RTC-Chip Uhr			      *
-* Version: Finale Version 1.0 (Aufgrund von Urheberrechts zensiert! Nur Teile *
+* Version: Zensiert (Aufgrund von Urheberrechts zensiert! Nur Teile           *
 * welche ausschießlich von unserer Gruppe geschrieben wurden veröffentlicht)  *						      *
 ******************************************************************************/
 
